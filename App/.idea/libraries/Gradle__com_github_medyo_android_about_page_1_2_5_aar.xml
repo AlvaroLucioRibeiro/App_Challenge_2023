@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.medyo:android-about-page:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/330a5ae397e4de8015998d3d5b0a55f9/jetified-android-about-page-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/330a5ae397e4de8015998d3d5b0a55f9/jetified-android-about-page-1.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc738b88d40931c6955a0d2745e851bd/jetified-android-about-page-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc738b88d40931c6955a0d2745e851bd/jetified-android-about-page-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc738b88d40931c6955a0d2745e851bd/jetified-android-about-page-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c95b5adfd15788d174fe750de3ab8e7/jetified-android-about-page-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c95b5adfd15788d174fe750de3ab8e7/jetified-android-about-page-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c95b5adfd15788d174fe750de3ab8e7/jetified-android-about-page-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d24c49559739470ebf91d19122598b4/jetified-android-about-page-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d24c49559739470ebf91d19122598b4/jetified-android-about-page-1.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d24c49559739470ebf91d19122598b4/jetified-android-about-page-1.2.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.medyo/android-about-page/1.2.5/19891f2e9d743c603ebd4c29ea1646ce40e31ab4/android-about-page-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.medyo/android-about-page/1.2.5/57e32b8027e529a70b24f4f029f8e756c9b18697/android-about-page-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
